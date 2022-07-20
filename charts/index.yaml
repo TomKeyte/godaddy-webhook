@@ -3,11 +3,11 @@ entries:
   godaddy-webhook:
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2022-07-20T17:14:55.701849098+01:00"
+    created: "2022-07-20T17:25:56.535842979+01:00"
     description: A Helm chart for Kubernetes
-    digest: 3329b82ae7a42dfa7d3b4ee7e37a2e3f7cd3eb426ab62973459546ff0ea04fed
+    digest: af84830c8dddc4d699092bed4d5c3e4682fa96b087a6b3c7ae40e8c5fb0292b3
     name: godaddy-webhook
     urls:
     - godaddy-webhook-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-20T17:14:55.701261916+01:00"
+generated: "2022-07-20T17:25:56.535482268+01:00"
